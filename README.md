@@ -1,16 +1,19 @@
 <div align="center">
-<img src="https://github.com/ccubed/ccubed/blob/main/assets/profile.png" width="25%" align="right">
-Hi, I'm ccubed. I'm mainly interested in coding things around networking, communication, data formats, and anything that lives on the console.
+<img src="https://github.com/ccubed/ccubed/blob/main/assets/profile.png" width="25%" align="right"/>
+Hi, I'm ccubed. <br/>
+I'm mainly interested in coding things around networking, communication, data formats, and anything that lives on the console.
 <br/><br/>
-* 🔭 I’m currently working on Folktales, a python based text game engine
-* 🌱 I’m currently learning [Caddy](https://caddyserver.com/), [Authelia](https://www.authelia.com/), and [Huginn](https://github.com/huginn/huginn) to setup my new home server system
-* 📫 How to reach me: [EMAIL](mailto:ccubed.techno@gmail.com)
-* 💿 [My Anilist Profile](https://anilist.co/user/TakeshiKO/)
+<div align="left">
+<ul>🔭 I’m currently working on Folktales, a python based text game engine</ul>
+<ul>🌱 I’m currently learning <a href="https://caddyserver.com/">Caddy</a>, <a href="https://www.authelia.com/">Authelia</a>, and <a href="https://github.com/huginn/huginn">Huginn</a> to setup my new home server system</ul>
+<ul>📫 How to reach me: <a href="mailto:ccubed.techno@gmail.com">Email</a></ul>
+<ul>💿 <a href="https://anilist.co/user/TakeshiKO/">My Anilist Profile</a></ul>
+</div>
 <br/></br>
-<!-- LIGHT -->
-![Github Stats Light](assets/GithubStats_Light.png)
-![Streak Stats Light](assets/StreakStats_Light.png)
-<!-- DARK -->
-![Github Stats Dark](assets/GithubStats_Dark.png)
-![Streak Stats Dark](assets/StreakStats_Dark.png)
+</div>
+<div align="left">
+<img src="https://github.com/ccubed/ccubed/blob/main/assets/GithubStats_Dark.png#gh-dark-mode-only" width="35%"/>
+<img src="https://github.com/ccubed/ccubed/blob/main/assets/StreakStats_Dark.png#gh-dark-mode-only" width="35%"/>
+<img src="https://github.com/ccubed/ccubed/blob/main/assets/GithubStats_Light.png#gh-light-mode-only" width="35%"/>
+<img src="https://github.com/ccubed/ccubed/blob/main/assets/StreakStats_Light.png#gh-light-mode-only" width="35%"/>
 </div>
