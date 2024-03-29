@@ -4,8 +4,8 @@ Hi, I'm ccubed. <br/>
 I'm mainly interested in coding things around networking, communication, data formats, and anything that lives on the console.
 <br/><br/>
 <div align="left">
-<ul>🔭 I’m currently working on Folktales, a python based text game engine</ul>
-<ul>🌱 I’m currently learning <a href="https://caddyserver.com/">Caddy</a>, <a href="https://www.authelia.com/">Authelia</a>, and <a href="https://github.com/huginn/huginn">Huginn</a> to setup my new home server system</ul>
+<ul>🔭 I’m currently working on a text game in go using <a href="https://github.com/charmbracelet/bubbletea">Bubbletea</a></ul>
+<ul>🌱 I’m currently learning <a href="https://vitejs.dev/">Vite</a>, <a href="https://www.skeleton.dev/">Skeleton</a>, and <a href="https://kit.svelte.dev/">Svelte Kit</a>.</ul>
 <ul>📫 How to reach me: <a href="mailto:ccubed.techno@gmail.com">Email</a></ul>
 <ul>💿 <a href="https://anilist.co/user/TakeshiKO/">My Anilist Profile</a></ul>
 </div>
